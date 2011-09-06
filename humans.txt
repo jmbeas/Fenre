@@ -1,0 +1,19 @@
+/* TEAM */
+	Standard Man: Pepe Doval González
+	Twitter: @pepellou
+	From: Santiago de Compostela, Galicia, Spain
+	Works for: Agil-AZ S.L.
+
+	Standard Man: José Manuel Beas
+	Twitter: @jmbeas
+	From: not sure
+	Works for: himself??
+
+/* THANKS */
+
+	
+/* SITE */
+	Last update: 2011/09/06
+	Language: Castellano
+	Doctype: HTML
+	IDE: vi
